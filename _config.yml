@@ -9,7 +9,7 @@ title: Panter Robotics Scout # site title, also used in the navbar
 email: matthew3218glennrobotics@gmail.com
 description: "A First Robotics Scouting Application built by Team Paradox 2102 used my Pather Robotics" # site description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://RoboRecon.org" # the base hostname & protocol for your site
+url: "http://RoboRecon3218PanterRobotics.org" # the base hostname & protocol for your site
 
 
 ### Header Settings ###
