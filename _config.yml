@@ -5,9 +5,9 @@
 ### Base Site settings ###
 ##########################
 
-title: Paradox Scout # site title, also used in the navbar
-email: webmaster@sdarobotics.org
-description: "A First Robotics Scouting Application built by Team Paradox 2102" # site description
+title: Panter Robotics Scout # site title, also used in the navbar
+email: matthew3218glennrobotics@gmail.com
+description: "A First Robotics Scouting Application built by Team Paradox 2102 used my Pather Robotics" # site description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://RoboRecon.org" # the base hostname & protocol for your site
 
@@ -16,8 +16,8 @@ url: "http://RoboRecon.org" # the base hostname & protocol for your site
 #######################
 # Customise to how you want
 header:
-    title: Team Paradox 2102 # the bold, bigger main text
-    accent: 2018 Scouting System # the smaller, but informative accenting text
+    title: Team Panter Robotics 3218 # the bold, bigger main text
+    accent: 2020 Scouting System # the smaller, but informative accenting text
     logo: "/images/paradox_logo_2016.png" # FULL path to image in the header 150x150 works well
 
 ### Footer Settings ###
@@ -34,9 +34,9 @@ footer:
 # These are the most imporant settings, choose carefully
 
 scout:
-    teamkey: 2102
+    teamkey: 3218
     tbaApiKey: J9XyDSN69eZMHqanEDaevzAywDjxL9iyBYAQh2erLJJ9MtZVG60HsEYeKVwloFGe
-    currentevent: 2018week0 # the Event key for the event you want to scout, can be found on TBA
+    currentevent: 2020week0 # the Event key for the event you want to scout, can be found on TBA
     firebase:
         rooturl: https://paradox-scout-dc256.firebaseio.com/ # Address of Firebase Server
         apikey: AIzaSyDleJPx9RQChKn4DlLV9nXqMNafP7BvhG0 # API Key of Firebase
